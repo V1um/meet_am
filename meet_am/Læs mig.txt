@@ -1,0 +1,17 @@
+	Download Python:
+https://www.python.org/downloads/ og husk under installationen "Add python version to PATH"
+
+	Åben cmd og indæt:
+pip install selenium
+pip install webdriver-manager
+
+	Åben run_openmeet.bat
+Gør hvad der står
+
+	Åben meet_am.py
+Gør hvad der står
+
+	Hvordan man for bat filen til at køre automatisk på et valgt tidspunkt
+https://www.youtube.com/watch?v=wtgLn6ZxxVQ 
+
+DONE
